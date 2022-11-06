@@ -8,4 +8,4 @@ Estamos organizando un grupo de usuarios interesados en aprender y compartir inf
 
 [Iniciamos la conversacion en reddit en el Reddit de DevsArg](https://www.reddit.com/r/devsarg/comments/vsasq3/buscando_desarrolladores_net_para_armar_un_grupo/)
 
-[Sitio principal](https://usuarios.net.ar)
+[Sitio principal (esta pagina)](https://usuarios.net.ar)
